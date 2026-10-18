@@ -1,3 +1,5 @@
+// Accept a no. and check weather it is divisible by 5 or not.
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
