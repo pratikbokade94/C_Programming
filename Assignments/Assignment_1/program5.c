@@ -1,3 +1,5 @@
+// Accept the no. from user and print number = star .
+
 #include <stdio.h>
 #include<stdlib.h>
 
