@@ -1,6 +1,5 @@
 // Accept one number from the user and print that number of * on the screen.
 
-
 #include<stdio.h>
 #include<stdlib.h>
 void Display(int iNO)
