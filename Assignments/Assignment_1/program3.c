@@ -1,4 +1,4 @@
-// program to print 5 to 1 .
+// program to print 5 to 1 number on screen.
 
 #include<stdio.h>
 #include<stdlib.h>
