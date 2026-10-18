@@ -1,3 +1,5 @@
+//  program to divide two number
+
 #include <stdio.h>
 #include<stdlib.h>
 
